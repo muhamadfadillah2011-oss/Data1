@@ -1,0 +1,77 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Oli Yamalube Super Sport",
+      "category": "Yamaha",
+      "type": "Oli",
+      "price": 65000,
+      "stock": 25,
+      "image": "https://placehold.co/300x200?text=Yamalube"
+    },
+    {
+      "id": 2,
+      "name": "Kampas Rem Yamaha NMAX",
+      "category": "Yamaha",
+      "type": "Rem",
+      "price": 55000,
+      "stock": 20,
+      "image": "https://placehold.co/300x200?text=Kampas+Rem+NMAX"
+    },
+    {
+      "id": 3,
+      "name": "Busi NGK Yamaha Mio",
+      "category": "Yamaha",
+      "type": "Pengapian",
+      "price": 35000,
+      "stock": 30,
+      "image": "https://placehold.co/300x200?text=Busi+Mio"
+    },
+    {
+      "id": 4,
+      "name": "V-Belt Yamaha Aerox",
+      "category": "Yamaha",
+      "type": "CVT",
+      "price": 95000,
+      "stock": 15,
+      "image": "https://placehold.co/300x200?text=V-Belt+Aerox"
+    },
+    {
+      "id": 5,
+      "name": "Oli AHM MPX 2",
+      "category": "Honda",
+      "type": "Oli",
+      "price": 58000,
+      "stock": 25,
+      "image": "https://placehold.co/300x200?text=Oli+MPX2"
+    },
+    {
+      "id": 6,
+      "name": "Kampas Rem Honda Beat",
+      "category": "Honda",
+      "type": "Rem",
+      "price": 45000,
+      "stock": 18,
+      "image": "https://placehold.co/300x200?text=Kampas+Rem+Beat"
+    },
+    {
+      "id": 7,
+      "name": "Busi NGK Honda Vario",
+      "category": "Honda",
+      "type": "Pengapian",
+      "price": 35000,
+      "stock": 35,
+      "image": "https://placehold.co/300x200?text=Busi+Vario"
+    },
+    {
+      "id": 8,
+      "name": "V-Belt Honda Beat",
+      "category": "Honda",
+      "type": "CVT",
+      "price": 90000,
+      "stock": 20,
+      "image": "https://placehold.co/300x200?text=V-Belt+Beat"
+    }
+  ]
+}
