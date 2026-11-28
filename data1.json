@@ -8,7 +8,7 @@
       "type": "Oli",
       "price": 65000,
       "stock": 25,
-      "image": "https://placehold.co/300x200?text=Yamalube"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBW34utzKO4eSfzzMU-jIvwTTds7xF8hoxXqZSa6aNw&s=10"
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "type": "Rem",
       "price": 55000,
       "stock": 20,
-      "image": "https://placehold.co/300x200?text=Kampas+Rem+NMAX"
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/101/MTA-175112867/oem_kampas-rem-depan-yamaha-n-max-nmax-aerox-155-lexi-original_full01.jpg"
     },
     {
       "id": 3,
@@ -26,7 +26,7 @@
       "type": "Pengapian",
       "price": 35000,
       "stock": 30,
-      "image": "https://placehold.co/300x200?text=Busi+Mio"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBA_Ml0yBbTuktApymW006RzkHSuykNM0iEntCC4Ayz-j5u3fOdvTglmg&s=10"
     },
     {
       "id": 4,
@@ -35,7 +35,7 @@
       "type": "CVT",
       "price": 95000,
       "stock": 15,
-      "image": "https://placehold.co/300x200?text=V-Belt+Aerox"
+      "image": "https://img.lazcdn.com/g/p/5b00e0cea1328f23b01e57334aac62dd.jpg_720x720q80.jpg""
     },
     {
       "id": 5,
@@ -44,7 +44,7 @@
       "type": "Oli",
       "price": 58000,
       "stock": 25,
-      "image": "https://placehold.co/300x200?text=Oli+MPX2"
+      "image": "https://www.hondacengkareng.com/wp-content/uploads/2021/04/Oli-MPX2.jpg"
     },
     {
       "id": 6,
@@ -53,7 +53,7 @@
       "type": "Rem",
       "price": 45000,
       "stock": 18,
-      "image": "https://placehold.co/300x200?text=Kampas+Rem+Beat"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5XFTs4_B7-qDxVoz69JwcxfB7soXiKi7YKwUzLcqmphU1j36jXZHhzxE&s=10"
     },
     {
       "id": 7,
@@ -62,7 +62,7 @@
       "type": "Pengapian",
       "price": 35000,
       "stock": 35,
-      "image": "https://placehold.co/300x200?text=Busi+Vario"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4PdJ2rUo7a1Cr5kXy2xs8eJtQZKK-H-WZAkQigKckollj6_vsvpwptT-&s=10"
     },
     {
       "id": 8,
@@ -71,7 +71,7 @@
       "type": "CVT",
       "price": 90000,
       "stock": 20,
-      "image": "https://placehold.co/300x200?text=V-Belt+Beat"
+      "image": "https://www.hondacengkareng.com/wp-content/uploads/2017/11/Belt-Drive-23100K25902.jpg"
     }
   ]
 }
